@@ -16,9 +16,9 @@
            revision="fifteen" />
            
   <project path="kernel/motorola/sm6150"
-           name="kernel_motorola_liber"
+           name="android_kernel_motorola_sm6150"
            remote="Thiago22"
-           revision="bpfv2" />
+           revision="testv8s" />
 
   <project path="hardware/motorola"
            name="android_hardware_motorola"
