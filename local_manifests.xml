@@ -8,7 +8,7 @@
   <project path="device/motorola/odessa"
            name="android_device_motorola_odessa"
            remote="Thiago"
-           revision="crdroid15" />
+           revision="crdroid" />
            
   <project path="device/motorola/sm6150-common"
            name="device_motorola_sm6150-common"
@@ -18,7 +18,7 @@
   <project path="kernel/motorola/sm6150"
            name="kernel_motorola_liber"
            remote="Thiago22"
-           revision="bpfpatches" />
+           revision="bpfv2" />
 
   <project path="hardware/motorola"
            name="android_hardware_motorola"
