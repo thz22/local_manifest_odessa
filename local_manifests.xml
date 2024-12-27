@@ -7,7 +7,7 @@
 <!--Trees-->
   <project path="device/motorola/odessa"
            name="android_device_motorola_odessa"
-           remote="Thiago"
+           remote="Thiago22"
            revision="crdroid" />
            
   <project path="device/motorola/sm6150-common"
