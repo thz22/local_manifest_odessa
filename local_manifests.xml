@@ -13,12 +13,12 @@
   <project path="device/motorola/sm6150-common"
            name="device_motorola_sm6150-common"
            remote="Thiago22"
-           revision="fifteen" />
+           revision="fifteen-pixel" />
            
   <project path="kernel/motorola/sm6150"
            name="android_kernel_motorola_sm6150"
            remote="Thiago22"
-           revision="v10" />
+           revision="testv8s" />
 
   <project path="vendor/motorola"
            name="proprietary_vendor_motorola"
