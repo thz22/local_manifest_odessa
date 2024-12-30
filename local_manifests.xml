@@ -8,7 +8,7 @@
   <project path="device/motorola/odessa"
            name="android_device_motorola_odessa"
            remote="Thiago22"
-           revision="crdroid" />
+           revision="rising" />
            
   <project path="device/motorola/sm6150-common"
            name="device_motorola_sm6150-common"
