@@ -23,5 +23,5 @@
   <project path="vendor/motorola"
            name="proprietary_vendor_motorola"
            remote="Thiago22"
-           revision="fifteen" />  
+           revision="qpr3" />  
 </manifest>
