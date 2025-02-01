@@ -23,12 +23,12 @@
     <project path="hardware/motorola"
            name="android_hardware_motorola"
            remote="LineageOS"
-           revision="lineage-21.0" />
+           revision="lineage-21" />
   
   <project path="system/qcom"
            name="android_system_qcom"
            remote="LineageOS"
-           revision="lineage-21.0" />
+           revision="lineage-21" />
 
   <project path="vendor/motorola"
            name="proprietary_vendor_motorola"
