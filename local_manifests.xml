@@ -13,25 +13,25 @@
   <project path="device/motorola/sm6150-common"
            name="device_motorola_sm6150-common"
            remote="Thiago22"
-           revision="fourteen" />
+           revision="fifteen" />
            
   <project path="kernel/motorola/sm6150"
            name="kernel_motorola_liber"
            remote="Thiago22"
-           revision="a14-magic" />
+           revision="test-magic" />
 
     <project path="hardware/motorola"
            name="android_hardware_motorola"
            remote="LineageOS"
-           revision="lineage-21" />
+           revision="lineage-22.1" />
   
   <project path="system/qcom"
            name="android_system_qcom"
            remote="LineageOS"
-           revision="lineage-21" />
+           revision="lineage-22.1" />
 
   <project path="vendor/motorola"
            name="proprietary_vendor_motorola"
            remote="Thiago22"
-           revision="qpr3" />  
+           revision="fifteen" />  
 </manifest>
