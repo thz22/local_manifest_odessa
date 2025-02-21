@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <remote name="cool585" fetch="https://github.com/cool585"/>
-  <remote name="LineageOS" fetch="https://github.com/LineageOS"/>
+  <remote name="CrDroid" fetch="https://github.com/crdroidandroid"/>
   <remote name="Thiago22" fetch="https://github.com/thz22"/>
   
 <!--Trees-->
@@ -16,19 +16,14 @@
            revision="fifteen" />
            
   <project path="kernel/motorola/sm6150"
-           name="kernel_motorola_liber"
+           name="android_kernel_motorola_sm6150"
            remote="Thiago22"
-           revision="test-magic" />
+           revision="testv8s" />
 
     <project path="hardware/motorola"
            name="android_hardware_motorola"
-           remote="LineageOS"
-           revision="lineage-22.1" />
-  
-  <project path="system/qcom"
-           name="android_system_qcom"
-           remote="LineageOS"
-           revision="lineage-22.1" />
+           remote="CrDroid"
+           revision="15.0" />
 
   <project path="vendor/motorola"
            name="proprietary_vendor_motorola"
