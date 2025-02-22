@@ -9,7 +9,7 @@
   <project path="device/motorola/odessa"
            name="device_11"
            remote="Thiago22"
-           revision="thirteen" />
+           revision="dot" />
            
   <project path="device/motorola/sm6150-common"
            name="common_11"
