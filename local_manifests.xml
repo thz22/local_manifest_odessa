@@ -1,32 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <remote name="cool585" fetch="https://github.com/cool585"/>
-  <remote name="CrDroid" fetch="https://github.com/crdroidandroid"/>
+  <remote name="moto" fetch="https://github.com/sm6150-motorola"/>
+  <remote name="BarryBlackCat" fetch="https://github.com/BarryBlackCat"/>
   <remote name="Thiago22" fetch="https://github.com/thz22"/>
+  <remote name="Thiago" fetch="https://github.com/thiagochizz44"/>
   
 <!--Trees-->
   <project path="device/motorola/odessa"
-           name="android_device_motorola_odessa"
+           name="device_11"
            remote="Thiago22"
-           revision="crdroid" />
+           revision="thirteen" />
            
   <project path="device/motorola/sm6150-common"
-           name="device_motorola_sm6150-common"
+           name="common_11"
            remote="Thiago22"
-           revision="fifteen" />
-           
-  <project path="kernel/motorola/sm6150"
-           name="android_kernel_motorola_sm6150"
-           remote="Thiago22"
-           revision="testv8s" />
-
-    <project path="hardware/motorola"
-           name="android_hardware_motorola"
-           remote="CrDroid"
-           revision="15.0" />
+           revision="11" />
 
   <project path="vendor/motorola"
            name="proprietary_vendor_motorola"
-           remote="Thiago22"
-           revision="fifteen" />  
+           remote="BarryBlackCat"
+           revision="lineage-20.0" />  
 </manifest>
